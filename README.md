@@ -34,7 +34,7 @@ Asegúrate de que el archivo `.env` esté en el `.gitignore` para no subirlo a G
 
 ### 5️⃣ Ejecutar el script
 ```bash
-python habit_tracker.py
+python main.py
 ```
 
 ## 📌 Funcionalidades
